@@ -15,8 +15,8 @@ This repository tracks **MCP resources useful for devs** across various categori
 
 ### Browser
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) | Remote Support | - | Web crawler for browser automation/data mining—enables rich data extraction in agent contexts. |
 | [Puppeteer MCP Server](https://github.com/AgentDeskAI/browser-tools-mcp) | Remote Support | - | Browser automation via Puppeteer, with dev tools/CLI. Well-known for scriptability in agent workflows. |
 | [Stagehand](https://github.com/browserbase/stagehand) | Remote Support | ⭐ 14 | Highly praised as a next-gen AI browser automation framework. Community loves choice of code vs. natural language, Pl... |
@@ -24,8 +24,8 @@ This repository tracks **MCP resources useful for devs** across various categori
 
 ### Data Sources
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [Apify MCP Server](https://docs.apify.com/platform/integrations/mcp) | Remote Support | - | AI/agent integration for web scraping and workflow automation on Apify Actors. |
 | [Brave Search MCP](https://github.com/brave/brave-search-mcp-server) | Remote + OAuth | ⭐ 29 | Favored by privacy-focused users; highlighted for real-time, unbiased results for LLMs. Positive sentiment for Google... |
 | [DuckDuckGo MCP Server](https://github.com/nickclyde/duckduckgo-mcp-server) | Remote Support | ⭐ 311 | Praised for empowering AIs (Claude, Cursor, etc.) with DuckDuckGo web search and advanced content fetching/parsing. F... |
@@ -37,16 +37,16 @@ This repository tracks **MCP resources useful for devs** across various categori
 
 ### Databases
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [Database Dynamo (PostgreSQL MCP Server)](https://github.com/crystaldba/postgres-mcp) | Remote + OAuth | ⭐ 789 | Praised in dev and Claude communities for full-lifecycle support (dev, test, prod). Key features: health checks, safe... |
 | [MCPQL - SQL Server MCP Server](https://github.com/RichardHan/mssql_mcp_server) | Remote Support | ⭐ 189 | Brings SQL Server database management and analysis to AI workflows via MCP protocol. |
 | [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) | Remote Support | - | Enables seamless AI integration with Supabase for improved database and workflow automation. |
 
 ### Development Tools
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [BrowserStack MCP](https://github.com/browserstack/mcp-server) | Remote + OAuth | ⭐ 81 | Official integration with BrowserStack Test Platform—well received for VS Code, Claude, and test automation with LLMs. |
 | [Clear Thought MCP Server](https://github.com/waldzellai/waldzell-mcp/tree/main/servers/server-clear-thought) | Remote Support | ⭐ 146 | Known for clean, transparent reasoning in LLM/agent workflows. Positive feedback in AI/research communities for conte... |
 | [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) | Remote + OAuth | - | Modern infrastructure/edge networking for AI agents—low latency, scalable, widely discussed by AI devs for production... |
@@ -65,23 +65,23 @@ This repository tracks **MCP resources useful for devs** across various categori
 
 ### Memory
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [mem0](https://github.com/mem0ai/mem0) | Local Only | - | Widely regarded as a state-of-the-art memory backend for AI agents and LLMs. Lauded on Reddit and social forums for f... |
 | [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) | Remote (No OAuth) | - | Praised on Reddit and by ChatGPT/Claude communities for its zero login, instant MCP setup, and seamless use “anywhere... |
 
 ### Other
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [MCP Server Chart (AntV)](https://github.com/antvis/mcp-server-chart) | Remote Support | - | Celebrated in AI/dev groups for robust chart/vis generation (25+ charts), direct use in Claude, Dify, VS Code, etc. U... |
 | [Sequential Thinking MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) | Local Only | - | Praised for dynamic problem-solving and structured thinking steps. Mentioned in agent/AI productivity discussions as ... |
 | [Time MCP Server](https://github.com/yokingma/time-mcp) | Local Only | ⭐ 39 | Fills a crucial gap: "brings time awareness to LLMs." Popular among Claude/Cursor users for giving AIs access to curr... |
 
 ### Social
 
-| Name | Connection Type | GitHub | Stars | Description |
-|------|----------------|---------|-------|-------------|
+| Name | Connection Type | Stars | Description |
+|------|----------------|-------|-------------|
 | [Reddit MCP Server](https://github.com/Arindam200/reddit-mcp) | Remote Support | ⭐ 151 | Strong support on r/claudeAI and r/MCPservers for real-time subreddit analysis, engagement tracking, and overall ease... |
 | [Redis MCP Server](https://github.com/redis/mcp-redis) | Local Only | ⭐ 166 | Official agentic-Redis server: supports full Redis data ops (lists, sets, vectors, search, JSON, streams). OpenAI, Cl... |
 | [Slack MCP Server](https://github.com/korotovsky/slack-mcp-server) | Remote + OAuth | ⭐ 369 | Highly discussed for team automation. Seen as 'game-changer' for integrating Claude/AI with workplace chat tools. |
