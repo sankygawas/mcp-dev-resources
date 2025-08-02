@@ -3,7 +3,7 @@
 
 # MCPs for Developers
 
-This repo hosts an open list of the most useful MCP servers for developers, curated and maintained by my [The AI Stack](https://www.theaistack.dev) newsletter.
+This repo hosts an open list of the most useful MCP servers for developers, curated and maintained by my [The AI Stack](https://www.theaistack.dev/subscribe?utm_source=github&utm_medium=welcome_resource) newsletter.
 
 - **Notion (Recommended for Browsing):**
   - The Notion version is always the **most up-to-date, filterable, and interactive** experience. And I keep updating stuff there and give the updates in my newsletter.
@@ -82,5 +82,5 @@ Discover and explore MCP servers through these curated registries and directorie
 | [Smithery](https://smithery.ai/) | General-purpose, very broad | 2,000+ servers | CLI/API support, open standard |
 
 ## Stay in Touch
-- <a href="https://www.theaistack.dev/subscribe" target="_blank">The AI Stack Newsletter</a> – context engineering, ai dev workflows and Ai dev tool insights weekly.
+- <a href="https://www.theaistack.dev/subscribe?utm_source=github&utm_medium=welcome_resource" target="_blank">The AI Stack Newsletter</a> – context engineering, ai dev workflows and Ai dev tool insights weekly.
 - Feedback & suggestions always welcome!
