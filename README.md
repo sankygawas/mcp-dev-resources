@@ -1,5 +1,5 @@
 ![The AI Stack Newsletter](assets/image.png)
-[The AI Stack Newsletter](https://www.theaistack.dev/subscribe)
+<a href="https://www.theaistack.dev/subscribe" target="_blank">The AI Stack Newsletter</a>
 
 # 🛠️ MCP Servers for Developers – Curated Database
 
@@ -96,5 +96,5 @@ This repository tracks **MCP resources useful for devs** across various categori
 | [WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp) | Remote Support | - | Enables powerful message management and automation for WhatsApp via AI; discussed in both dev and productivity circle... |
 
 ## 🌐 Stay in Touch
-- [The AI Stack Newsletter](https://www.theaistack.dev/subscribe) – context engineering, ai dev workflows and Ai dev tool insights weekly.
+- <a href="https://www.theaistack.dev/subscribe" target="_blank">The AI Stack Newsletter</a> – context engineering, ai dev workflows and Ai dev tool insights weekly.
 - Feedback & suggestions always welcome!
