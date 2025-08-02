@@ -1,19 +1,23 @@
 ![The AI Stack Newsletter](assets/image.png)
 <a href="https://www.theaistack.dev/subscribe" target="_blank">The AI Stack Newsletter</a> – Free weekly updates on context engineering, ai dev workflows and Ai dev tool insights.
 
-# MCP Servers for Developers
+# MCPs for Developers
 
 This repo hosts an open list of the most useful MCP servers for developers, curated and maintained by my [The AI Stack](https://www.theaistack.dev) newsletter.
 
 - **Notion (Recommended for Browsing):**
-  - The Notion version is always the **most up-to-date, filterable, and interactive** experience. And I keep it updated there.
-  - [Access to Notion database here](https://www.notion.so/acbda5e09ba442fd849221ee9a7fc3a9?v=4319effeb50c44c2b3b3e269b951248f&source=copy_link)
+  - The Notion version is always the **most up-to-date, filterable, and interactive** experience. And I keep updating stuff there and give the updates in my newsletter.
+  - [Access to Notion database here](https://www.notion.so/MCP-resources-by-the-The-AI-Stack-243b157908ae80148480da114cdadb41)
 
 - **Remote Support**: Requires API keys/tokens
 - **Local Only**: Runs on your machine  
 - **Remote + OAuth**: Requires OAuth authentication
 - **Remote (No OAuth)**: No authentication needed
 
+
+## 🔌 MCP Servers
+
+A comprehensive list of Model Context Protocol (MCP) servers to supercharge your AI development workflow.
 
 | Name | Category | Connection Type | ⭐ Stars | Description |
 |------|----------|----------------|-------|-------------|
@@ -56,6 +60,26 @@ This repo hosts an open list of the most useful MCP servers for developers, cura
 | [Terminal Controller MCP](https://github.com/GongRzhe/terminal-controller-mcp) | Development Tools | Local Only | 70 | Secure, cross-platform terminal and filesystem control from AI/LLMs. Strong praise for natural language command execu... |
 | [Time MCP Server](https://github.com/yokingma/time-mcp) | Other | Local Only | 39 | Fills a crucial gap: "brings time awareness to LLMs." Popular among Claude/Cursor users for giving AIs access to curr... |
 | [WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp) | Social | Remote Support | 4.5k | Enables powerful message management and automation for WhatsApp via AI; discussed in both dev and productivity circle... |
+
+## 📋 MCP Registries
+
+Discover and explore MCP servers through these curated registries and directories.
+
+| Registry | Key Focus | Scale | Notes |
+|----------|-----------|-------|-------|
+| [Awesome MCP](https://github.com/punkpeye/awesome-mcp-servers) | Community, open source | 500+ servers | GitHub curated, remote & local endpoints |
+| [Composio](https://mcp.composio.dev/) | SSE-based, frameworks | 100s | Easy AI/agent kit integration |
+| [Cursor MCP Directory](https://cursor.directory/mcp) | Cursor/Claude integration focus | 100s | Endpoints compatible with cursor/Claude |
+| [Glama](https://glama.ai/mcp/servers?attributes=category%3Abrowser-automation) | Quality/curation focus | Fewer (filtered) | Only stable, production MCPs |
+| [gumloop](https://www.gumloop.com/mcp) | OSS hosted endpoints | N/A | Plug-and-play, frictionless for devs |
+| [MCP Hub (CAMEL-AI)](https://mcp.camel-ai.org/) | LangChain, VS Code integrations | 100+ | Official MCPs and integrations |
+| [MCP Registry Registry](https://mastra.ai/mcp-registry-registry) | Meta-registry listing all registries | Varies | Lists and links to all known MCP registries |
+| [mcp.run](https://www.mcp.run/registry) | Business MCP apps | 100s | API/automation driven |
+| [Official MCP Servers](https://github.com/modelcontextprotocol/servers) | Official reference implementations | 50+ official servers | Official reference implementations and canonical servers |
+| [OpenTools](https://opentools.com/registry) | Dev-oriented, multi-language | 100s | REST API, Python/TypeScript SDKs |
+| [PulseMCP](https://www.pulsemcp.com/servers) | Hosted MCP tools/apps | 5,000+ servers | Curated, production focus, updated daily |
+| [Raycast Registry](https://www.raycast.com/raycast/model-context-protocol-registry) | Meta-registry | Varies | Works across agent clients, official/community |
+| [Smithery](https://smithery.ai/) | General-purpose, very broad | 2,000+ servers | CLI/API support, open standard |
 
 ## Stay in Touch
 - <a href="https://www.theaistack.dev/subscribe" target="_blank">The AI Stack Newsletter</a> – context engineering, ai dev workflows and Ai dev tool insights weekly.
