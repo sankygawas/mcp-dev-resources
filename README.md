@@ -1,6 +1,14 @@
-# 🔌 Developer MCP Resources Database
+![The AI Stack Newsletter](assets/image.png)
+[The AI Stack Newsletter](https://www.theaistack.dev/subscribe)
 
-A curated collection of Model Context Protocol (MCP) servers and tools for AI developers.
+# 🛠️ MCP Servers for Developers – Curated Database
+
+Welcome to the **MCP Servers Database**!  
+This repo hosts an open, community-driven list of the most useful Managed Cloud Platform (MCP) servers for developers, curated and maintained by [The AI Stack](https://www.theaistack.dev) newsletter.
+
+- **Notion (Recommended for Browsing):**
+  - The Notion version is always the **most up-to-date, filterable, and interactive** experience. And I keep it updated there.
+  - [Access to Notion database here](#) _(replace with your Notion link)_.
 
 ## 📊 Overview
 
@@ -86,3 +94,7 @@ This repository tracks **MCP resources useful for devs** across various categori
 | [Redis MCP Server](https://github.com/redis/mcp-redis) | Local Only | ⭐ 166 | Official agentic-Redis server: supports full Redis data ops (lists, sets, vectors, search, JSON, streams). OpenAI, Cl... |
 | [Slack MCP Server](https://github.com/korotovsky/slack-mcp-server) | Remote + OAuth | ⭐ 369 | Highly discussed for team automation. Seen as 'game-changer' for integrating Claude/AI with workplace chat tools. |
 | [WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp) | Remote Support | - | Enables powerful message management and automation for WhatsApp via AI; discussed in both dev and productivity circle... |
+
+## 🌐 Stay in Touch
+- [The AI Stack Newsletter](https://www.theaistack.dev/subscribe) – context engineering, ai dev workflows and Ai dev tool insights weekly.
+- Feedback & suggestions always welcome!
